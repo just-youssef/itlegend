@@ -98,7 +98,7 @@ const CourseActions = ({ course }: { course: any }) => {
             <div className="flex flex-col bg-slate-100 p-8 gap-y-4 rounded-4xl">
               {new Array(3)
                 .fill(
-                  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque pariatur dolore corporis magni consequuntur minima. Neque fugit rerum eos obcaecati, dolores aliquam unde soluta sunt consequatur quia quam debitis excepturi?"
+                  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque pariatur dolore corporis magni consequuntur minima."
                 )
                 .map((w, wIdx) => (
                   <p
