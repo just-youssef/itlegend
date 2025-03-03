@@ -87,7 +87,7 @@ const CourseActions = ({ course }: { course: any }) => {
           >
             <h1 className="text-2xl font-semibold">{course.title}</h1>
 
-            <div className="flex items-center gap-x-4 bg-slate-100 rounded p-8 shadow">
+            <div className="flex max-lg:flex-col items-center gap-4 bg-slate-100 rounded p-8 shadow">
               <span className="text-5xl">💪</span>
               <p>
                 عظيم يا صديقي.. أداءك في الكورس ده أفضل من 60% من باقي الطلبة..

@@ -39,7 +39,7 @@ const CustomModal = ({
             leave="ease-in duration-200"
             leaveFrom="opacity-100 scale-100"
             leaveTo="opacity-0 scale-90"
-            className="flex min-h-full items-center justify-center"
+            className="flex min-h-full items-center justify-center p-8"
           >
             <DialogPanel
               as="div"
